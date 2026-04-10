@@ -1,2 +1,2 @@
-# RL-Implementing-a-simple-grid-world-environment-and-training-an-agent-using-basic-Q-learning-EXP-1
-Q-learning is an off policy reinforcement learning algorithm that seeks to find the  best action to take given the current state. It’s considered off-policy because the q- learning function learns from actions that are outside the current policy, More specifically, q- learning seeks to learn a policy that maximizes the total reward.
+# RL-Implementing-a-simple-grid-world-environment-and-training-an-agent-using-basic-Q-learning
+EXP-1, Q-learning is an off policy reinforcement learning algorithm that seeks to find the  best action to take given the current state. It’s considered off-policy because the q- learning function learns from actions that are outside the current policy, More specifically, q- learning seeks to learn a policy that maximizes the total reward.
